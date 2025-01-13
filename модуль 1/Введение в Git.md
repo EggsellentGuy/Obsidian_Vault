@@ -63,7 +63,7 @@ Git может отслеживать файлы проекта только п�
 
 Проект может быть как новым, так и уже существующим. Процесс инициализации от этого не изменится:
 
-```
+``` bash
 # Создаем новый проект
 mkdir hexlet-git
 cd hexlet-git
@@ -75,14 +75,14 @@ git init
 
 С помощью команды `git status` можно посмотреть статус репозитория:
 
-```
+``` bash
 git status
 
 ```
 
 Вывод будет следующим:
 
-```
+```bash
 On branch main
 No commits yet
 nothing to commit (create/copy files and use "git add" to track)
@@ -93,7 +93,7 @@ nothing to commit (create/copy files and use "git add" to track)
 
 Давайте попробуем добавить несколько файлов:
 
-```
+```bash
 echo 'Hello, Hexlet!' > README.md
 echo 'Haskell Curry' > PEOPLE.md
 
@@ -101,14 +101,14 @@ echo 'Haskell Curry' > PEOPLE.md
 
 Теперь снова смотрим на статус:
 
-```
+```bash
 git status
 
 ```
 
 Вывод будет следующим:
 
-```
+```bash
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
     PEOPLE.md

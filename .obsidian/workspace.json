@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "модуль 2/Словари и Множества.md",
-                "mode": "preview",
+                "file": "модуль 2/Функции.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Функции"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "модуль 2/Словари и Множества.md",
+                "file": "модуль 2/Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Функции"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "модуль 2/Словари и Множества.md",
+                "file": "модуль 2/Функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Функции"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "модуль 2/Словари и Множества.md"
-              }
+                "file": "модуль 2/Функции.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Функции"
             }
           }
         ]
@@ -148,14 +164,16 @@
   },
   "active": "5f426716cfc52657",
   "lastOpenFiles": [
+    "модуль 2/Словари и Множества.md",
+    "основные понятия/разные функции.md",
+    "основные понятия/Что такое python.md",
+    "модуль 1/Введение в Git.md",
+    "основные понятия/Вебинары которые посетил.md",
     "README.md~",
     "README.md",
     "README.rm",
     "README.txt",
     "модуль 1/Тема списки.md",
-    "модуль 2/Словари и Множества.md",
-    "основные понятия/Что такое python.md",
-    "модуль 1/Введение в Git.md",
     "Первый проект.md",
     "Big O.md",
     "HTTP.md",
@@ -164,8 +182,6 @@
     "Рекурсия.md",
     "модуль 2",
     "Микрофреймворки.md",
-    "основные понятия/разные функции.md",
-    "основные понятия/Вебинары которые посетил.md",
     "основные понятия",
     "модуль 1/Основы командной строки.md",
     "модуль 1/Ключевые аспекты веб-разработки на Python.md",
