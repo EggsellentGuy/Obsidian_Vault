@@ -1,5 +1,6 @@
 {
   "textFontFamily": "Times New Roman",
-  "cssTheme": "Minimal",
-  "baseFontSize": 22
+  "cssTheme": "Things",
+  "baseFontSize": 28,
+  "theme": "obsidian"
 }
