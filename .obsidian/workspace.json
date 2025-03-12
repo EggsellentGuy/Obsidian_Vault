@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "модуль 3/SQL - Join!.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,8 +180,9 @@
   },
   "active": "ae442a6023cfae01",
   "lastOpenFiles": [
-    "модуль 3/SQL.md",
+    "модуль 3/SQL_buf.md",
     "модуль 3/SQL - Join!.md",
+    "модуль 3/SQL.md",
     "Рекурсия.md",
     "HTTP.md",
     "Big O.md",
